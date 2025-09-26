@@ -9,5 +9,40 @@ body
 
 h1{
     padding:10px;
-    background-color: rgb(197, 49, 98);
+    background-color: rgb(245, 151, 182);
+}
+
+h2{
+    border-bottom: 2px solid #3D3D3D;
+}
+
+figure
+{
+    margin: 30px;
+    padding: 15px;
+    text-align:center;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+}
+
+figcaption{
+    margin-top: 10px;
+}
+
+.matriz-empresa
+{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.criadores
+{
+    width: 275px;
+    float: right;
+}
+
+figure img
+{
+    width: 100%;
 }
