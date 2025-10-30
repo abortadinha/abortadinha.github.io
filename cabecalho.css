@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: palevioletred;
+    color: #fff;
+    
+    text-align: center;
+    font-size: 0.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23em;
+}
