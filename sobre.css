@@ -7,9 +7,11 @@ body
     color: #3D3D3D;
 }
 
-h1{
+.titulo
+{
     padding:10px;
     background-color: rgb(245, 151, 182);
+    font-size: 32px;
 }
 
 h2{
@@ -27,6 +29,7 @@ figure
 
 figcaption{
     margin-top: 10px;
+
 }
 
 .matriz-empresa
